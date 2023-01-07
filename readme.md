@@ -2,6 +2,8 @@
 
 <br/>
 
+Created by Ridwan Arshad and Kate Shea
+
 You must make a plan before you start coding and have a member of the instructional team sign you off.  
 <br/>
 
