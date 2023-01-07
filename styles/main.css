@@ -1,0 +1,79 @@
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#main-container {
+  width: 75%;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.score-boxes {
+  border: 1px solid rgba(0,0,0,0.2);
+  padding: 10px;
+  width: 150px;
+  background-color: white;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#start-button, #reset-button {
+  border: 1px solid rgba(0,0,0,0.2);
+  padding: 10px;
+  width: 150px;
+  background-color: white;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+/* #reset-button {
+  border: 1px solid rgba(0,0,0,0.2);
+  padding: 10px;
+  width: 150px;
+  background-color: white;
+  cursor: pointer;
+} */
+
+h1 {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+#scoreboard-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btns {
+  margin-bottom: 4px;
+  width: calc(100% / 5 - 5px);
+  height: 110px;
+  border: 1px solid rgba(0,0,0,0.2)
+}
+
+
+#player {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.mole {
+  background-image: url('../assets/mole.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
