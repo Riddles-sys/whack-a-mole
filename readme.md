@@ -2,7 +2,7 @@
 
 <br/>
 
-Created by Ridwan Arshad and Kate Shea within 4 hours.
+Created by Ridwan Arshad and Kate Shea within a 2 hour hackathon.
 
 You must make a plan before you start coding and have a member of the instructional team sign you off.  
 <br/>
